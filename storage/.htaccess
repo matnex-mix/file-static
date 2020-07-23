@@ -1,0 +1,4 @@
+RewriteEngine on
+
+RewriteCond *
+RewriteRule ../index.php [L]
